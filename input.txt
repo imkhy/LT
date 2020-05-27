@@ -1,0 +1,5 @@
+start
+omile a=18.50
+convert a into yard
+show result
+end
